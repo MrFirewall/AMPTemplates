@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "27803367-4f31-4d6a-b94b-553fa91d7e3a",
+    "authors": [
+        "hmtack"
+    ],
+    "origin": "https://github.com/hmtack/AMPTemplates.git",
+    "url": "https://github.com/hmtack/AMPTemplates",
+    "imagefile": "",
+    "prefix": "hmtack"
 }

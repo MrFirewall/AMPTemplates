@@ -1,0 +1,36 @@
+[
+    {
+        "ConfigFile":"tes3mp-server-default.cfg",
+        "ConfigType":"ini",
+        "ConfigFormat":"{0}={1}",
+        "Subsections":[
+                {
+                        "Heading":"General",
+                        "SettingMappings":{
+                                "localAddress":"localAddress",
+                                "port":"port",
+                                "maximumPlayers":"$MaxUsers",
+                                "hostname":"hostname",
+                                "logLevel":"logLevel",
+                                "password":"password"
+                        }
+                },
+                {
+                        "Heading":"Plugins",
+                        "SettingMappings":{
+                                "home":"./server",
+                                "plugins":"serverCore.lua"
+                        }
+                },
+                {
+                        "Heading":"MasterServer",
+                        "SettingMappings":{
+                                "enabled":"true",
+                                "address":"master.tes3mp.com",
+                                "port":"25561",
+                                "rate":"10000"
+                        }
+                }
+        ]                       
+    }
+]
