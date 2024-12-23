@@ -5,7 +5,7 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "294420",
         "UpdateSourceArgs": "251570",
-        "UpdateSourceVersion": "{{Stream}}"
+        "UpdateSourceVersion": "{{Steam}}"
     },
     {
         "UpdateStageName": "Create Mods Directory",
